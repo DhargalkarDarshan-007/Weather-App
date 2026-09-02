@@ -14,7 +14,7 @@ body{
     max-width: 470px;
     background: linear-gradient(135deg,#00feba,#5b548a);
     color: white;
-    margin:100px auto 0;
+    margin:70px auto 0;
     border-radius: 20px;
     padding: 40px 35px;
     text-align: center;
@@ -76,7 +76,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 20px ;
+    padding: 0 8px ;
     margin-top: 50px;
 }
 
